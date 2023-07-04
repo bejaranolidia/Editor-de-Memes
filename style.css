@@ -1,0 +1,90 @@
+/* Contenedor padre del editor de meme */
+
+#container-meme {
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+    background-color: aqua;
+    height: 520px;
+    
+}
+/* Barra del titulo */
+
+#titulo {
+    display: flex;
+    justify-content: center;
+    background-color: red;
+    height: 100%;
+    padding: 2%;
+    margin: 0%;
+}
+
+/* Barra de los botones centrales del editor */
+.barra-encabezado {
+    display: flex;
+    justify-content: center;
+    background-color: blue;
+    padding: 2px;    
+}
+
+/* Div botones centrales */
+#boton-edicion {
+    display: flex;
+    justify-content: center;
+    background-color: blueviolet;
+    padding: 10px;
+    margin: 10px;
+}
+
+#container-editor {
+    display: flex;
+    justify-content: center;    
+    flex-direction: column;
+    background-color: yellowgreen;
+    height: 500px;
+    padding: 2px;
+    margin: 5px;
+    height: 800px;
+    width: 700px;
+}
+
+#top-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    background-color: azure;
+    padding: 10px;
+    height: 30px;
+    
+}
+
+#imagen-editor {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    background-color: gray;
+    padding: 10px;
+    height: 380px;
+    
+}
+
+#bottom-tex {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    background-color: azure;
+    padding: 10px;
+    height: 30px;
+}
+
+
+
+
+
