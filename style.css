@@ -331,3 +331,48 @@ input[type='color']::-webkit-color-swatch {
     color: #2b1b36;
 }
 
+/* Media Queries para mobile */
+@media (min-width: 200px) and (max-width: 479px) {
+    .header {
+        width: 100%;
+
+    }
+
+    .panel-estilado {
+        width: 100%;
+        box-sizing: border-box;
+        overflow: auto;
+    }
+
+    .boton-panel-cierre {
+        display: inline-block;
+
+    }
+    .contenedor-imagen {
+        width: 190px;
+        height: 220px;
+
+    }
+
+    .parrafo-texto-superior,
+    .parrafo-texto-inferior {
+        font-size: 15px;
+        padding: 10px;
+
+
+    }
+}
+
+/* Media Queries para tablet  */
+@media (min-width: 480px) and (max-width: 819px) {
+    .panel-estilado {
+        width: 100%;
+        box-sizing: border-box;
+        overflow: auto;
+    }
+
+    .boton-panel-cierre {
+        display: inline-block;
+
+    }
+    }
