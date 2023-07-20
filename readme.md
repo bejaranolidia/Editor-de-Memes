@@ -4,10 +4,10 @@
 
 #### ✅CSS
 #### ✅HTML5
-#### ✅Javascript
+#### ✅JavaScript
 
-## Project
-[Clic aquí para visitar mi página](/)
+## Proyecto
+[Clic aquí para visitar mi página](https://bejaranolidia.github.io/Editor-de-Memes/)
 >![Editor de Memes](img/editor.PNG)
 
 ## ADA ITW  
